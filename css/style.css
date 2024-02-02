@@ -1,0 +1,8 @@
+.container-lg, .container-fluid {
+    background-color: beige;
+}
+
+.col {
+    border: 1px solid bisque;
+}
+
